@@ -1,6 +1,6 @@
 <?php
 /* creates an html element, like in js */
-class html_element
+class htmlElement
 {
 	/* vars */
 	var $type;
